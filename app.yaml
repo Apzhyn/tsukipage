@@ -1,0 +1,10 @@
+name: tsukipage
+app_id: da_K53IxtPUx1dZ
+owner: apzhyn
+kind: wasmer.io/App.v0
+
+package: .
+
+static:
+  dir: .
+  index: index.html
